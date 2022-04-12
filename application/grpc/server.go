@@ -8,7 +8,7 @@ import (
 	"github.com/jinzhu/gorm"
 	"github.com/portoedu/codePix/application/grpc/pb"
 	"github.com/portoedu/codePix/application/usecase"
-	"github.com/portoedu/codePix/insfrastructure/repository"
+	"github.com/portoedu/codePix/infrastructure/repository"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
